@@ -13,13 +13,13 @@
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Marked-Mixin-Json#readme",
   "dependencies": {
-    "@sudoo/marked-mixin": "^1.2.0"
+    "@sudoo/marked-mixin": "^1.4.0"
   },
   "peerDependencies": {
     "@sudoo/marked": "*"
   },
   "devDependencies": {
-    "@sudoo/marked": "^3.10.0",
+    "@sudoo/marked": "^3.14.0",
     "@sudoo/triforce": "^3.8.0"
   },
   "nyc": {

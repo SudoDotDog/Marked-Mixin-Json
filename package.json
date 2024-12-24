@@ -19,7 +19,7 @@
     "@sudoo/marked": "*"
   },
   "devDependencies": {
-    "@sudoo/marked": "^3.21.4",
+    "@sudoo/marked": "^3.21.6",
     "@sudoo/triforce": "^3.11.0"
   },
   "nyc": {
